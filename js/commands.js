@@ -60,7 +60,11 @@ banner = [
     " ▒ ░░ ░░   ░ ▒░ ░ ▒  ▒  ▒ ░▒░ ░ ▒ ░    ░       ▒   ▒▒ ░  ░▒ ░ ▒░ ▒ ░▒░ ░  ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ▒  ▒  ▒ ░░ ░▒ ▒░ ▒   ▒▒ ░",
     " ▒ ░   ░   ░ ░  ░ ░  ░  ░  ░░ ░ ▒ ░    ░ ░     ░   ▒     ░░   ░  ░  ░░ ░  ░   ▒      ░   ░ ░  ░ ░  ░  ▒ ░░ ░░ ░  ░   ▒   ",
     " ░           ░    ░     ░  ░  ░ ░                  ░  ░   ░      ░  ░  ░      ░  ░         ░    ░     ░  ░  ░        ░  ░",
-    "                ░                                                                             ░                          ",
+    "                ░                                                                             ░ © 2023                   ",
+    "                                                                                                                   ",
+    "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
+    "============== Try to take over the World =============",
+    "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-",
     '<span class="color2">Welcome to my interactive web terminal.</span>',
     "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
