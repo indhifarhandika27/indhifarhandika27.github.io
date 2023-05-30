@@ -108,16 +108,13 @@ function commander(cmd) {
         case "projects":
             loopLines(projects, "color2 margin", 80);
             break;
-        case "password":
-            addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!ðŸ˜‚</span>", "error", 100);
-            break;
         case "history":
             addLine("<br>", "", 0);
             loopLines(commands, "color2", 80);
             addLine("<br>", "command", 80 * commands.length + 50);
             break;
         case "email":
-            addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
+            addLine('Opening mailto:<a href="mailto:indhifarhandika27@icloud.com">indhifarhandika27@icloud.com</a>...', "color2", 80);
             newTab(email);
             break;
         case "clear":
