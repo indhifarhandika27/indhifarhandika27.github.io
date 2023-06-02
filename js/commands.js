@@ -7,7 +7,8 @@ var password = 'hahaha';
 whois = [
     "<br>",
     "Hey, I'm Indhi",
-    "I'm a software developer",
+    "I'm a software developer.",
+    "Like to learn new things, especially about computer technology.",
     "<br>"
 ];
 
