@@ -17,10 +17,9 @@ setTimeout(function () {
 window.addEventListener("keyup", enterKey);
 
 console.log(
-    "%cYou hacked my password!ðŸ˜ ",
+    "%cWeb created by indhifarhandika ",
     "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
-console.log("%cPassword: '" + password + "' - I wonder what it does?ðŸ¤”", "color: grey");
 
 //init
 textarea.value = "";
