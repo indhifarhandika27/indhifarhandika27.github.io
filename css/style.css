@@ -30,6 +30,11 @@ b {
     text-decoration: underline;
 }
 
+.img-profile {
+    width: 9rem;
+    border-radius: 50%;
+}
+
 /* Cursor Start */
 .cursor {
     font-size: 12px;

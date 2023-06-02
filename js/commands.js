@@ -6,7 +6,7 @@ var password = 'hahaha';
 
 whois = [
     "<br>",
-    "<img src='https://media.licdn.com/dms/image/C5603AQGN1vG-aoP4eQ/profile-displayphoto-shrink_400_400/0/1631766460361?e=1691020800&v=beta&t=X3ffKnFU3wqOXTdxJ4cCnBkuZlS2Q5_wEh6lMUkdxoU'/>",
+    "<img src='https://media.licdn.com/dms/image/C5603AQGN1vG-aoP4eQ/profile-displayphoto-shrink_400_400/0/1631766460361?e=1691020800&v=beta&t=X3ffKnFU3wqOXTdxJ4cCnBkuZlS2Q5_wEh6lMUkdxoU' class='img-profile' />",
     "Hey, I'm Indhi",
     "I'm a software developer.",
     "Like to learn new things, especially about computer technology.",
