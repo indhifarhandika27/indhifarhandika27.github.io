@@ -16,7 +16,7 @@ whois = [
 
 whoami = [
     "<br>",
-    "The paradox of Who am I? we never know, but, we constantly find out.",
+    "Noob.",
     "<br>"
 ];
 
@@ -47,7 +47,7 @@ help = [
     '<span class="command">whoami</span>         Who are you?',
     '<span class="command">social</span>         Display social networks',
     '<span class="command">help</span>           You obviously already know what this does',
-    '<span class="command">email</span>          Do not email me',
+    '<span class="command">email</span>          My email',
     '<span class="command">clear</span>          Clear terminal',
     '<span class="command">banner</span>         Display the header',
     "<br>",
