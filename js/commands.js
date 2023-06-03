@@ -16,7 +16,7 @@ whois = [
 
 whoami = [
     "<br>",
-    "The paradox of Who am I? we never know, but, we constantly find out.",
+    "The paradox of Who am I? we never know, but, we constantly find out.",
     "<br>"
 ];
 
