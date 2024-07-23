@@ -1,8 +1,8 @@
 var linkedin = "https://www.linkedin.com/in/indhifarhandika/";
-var instagram = "https://www.instagram.com/indhifarhandika27/";
+var instagram = "https://www.instagram.com/indhifarhandika/";
 var github = "https://github.com/indhifarhandika/";
 var hackerrank = "https://hackerrank.com/indhifarhandika/";
-var email = 'mailto:indhifarhandika27@icloud.com';
+var email = 'mailto:gmail@indhifarhandika.dev';
 var password = 'hahaha';
 
 whois = [
@@ -16,14 +16,14 @@ whois = [
 
 whoami = [
     "<br>",
-    "Noob.",
+    "Full Stack Programmer.",
     "<br>"
 ];
 
 social = [
     "<br>",
     'linkedin       <a href="' + linkedin + '" target="_blank">linkedin/indhifarhandika' + "</a>",
-    'instagram      <a href="' + instagram + '" target="_blank">instagram/indhifarhandika27' + '</a>',
+    'instagram      <a href="' + instagram + '" target="_blank">instagram/indhifarhandika' + '</a>',
     'github         <a href="' + github + '" target="_blank">github/indhifarhandika' + "</a>",
     'hackerrank     <a href="' + hackerrank + '" target="_blank">hackerrank/indhifarhandika' + "</a>",
     "<br>"
